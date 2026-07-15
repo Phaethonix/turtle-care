@@ -10,9 +10,9 @@
 | Name | Start Weight |
 |------|-------------|
 | No Dots | 55 g |
-| Two Dots (..) | 49 g |
+| Two Dots  | 49 g |
 | Three Dots | 48 g |
-| One Dot (.) | 43 g |
+| One Dot  | 43 g |
 
 ---
 
@@ -235,7 +235,7 @@
 | Three Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
 | One Dot | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
 
-**Notes:** Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. No Dots has a hair-like growth protruding from its cloaca; safe, likely will pass with next poop (same as One Dot yesterday). All overactive today.
+**Notes:** Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. No Dots pooped out the hair-like growth and is fine. All overactive today. Canonical name: No Dots.
 
 ---
 ## 📊 Weight Tracker
