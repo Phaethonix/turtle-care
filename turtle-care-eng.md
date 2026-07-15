@@ -206,34 +206,34 @@
 
 ### Monday, July 13
 
-|||| Turtle | Weight | Feed | Bath | Activity |
-||||--------|--------|------|------|----------|
-|||| No Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
-|||| Two Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
-|||| Three Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
-|||| One Dot | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+||| Two Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+||| Three Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+||| One Dot | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
 
 **Notes:** Fed ~8 pallets total. Bath given quite late at almost 8am.
 
 ### Tuesday, July 14
 
-|||| Turtle | Weight | Feed | Bath | Activity |
-||||--------|--------|------|------|----------|
-|||| No Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
-|||| Two Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
-|||| Three Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
-|||| One Dot | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+||| Two Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+||| Three Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+||| One Dot | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
 
 **Notes:** Fed ~10-12 pallets total with butterfly pea stems. Bath given as usual. All ate a lot today.
 
 ### Wednesday, July 15
 
-|||| Turtle | Weight | Feed | Bath | Activity |
-||||--------|--------|------|------|----------|
-|||| No Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
-|||| Two Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
-|||| Three Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
-|||| One Dot | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+||| Two Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+||| Three Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+||| One Dot | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
 
 **Notes:** Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. No Dots has a hair-like growth protruding from its cloaca; safe, likely will pass with next poop (same as One Dot yesterday). All overactive today.
 
