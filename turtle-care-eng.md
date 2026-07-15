@@ -173,7 +173,7 @@
 **Notes:** Fed same as yesterday (ivy gourd and butterfly pea in morning, 6 pellets around 14:00). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
 
 ### Friday, July 10
-|
+
 | Turtle | Weight | Feed | Bath | Activity |
 |--------|--------|------|------|----------|
 | No Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
