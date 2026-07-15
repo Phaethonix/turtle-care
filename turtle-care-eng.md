@@ -171,16 +171,17 @@
 **Notes:** Fed ivy gourd and butterfly pea in the morning, then 6 pellets around 14:00. Brushed/cleaned them during bath time. Kept inside under UVA till ~18:30. Active day.
 
 **Notes:** Fed same as yesterday (ivy gourd and butterfly pea in morning, 6 pellets around 14:00). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
+
 ### Friday, July 10
 
-||| Turtle | Weight | Feed | Bath | Activity |
-|||--------|--------|------|------|----------|
-||| No Dots | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active — ate many butterfly pea stems, hair‑like thing visible on shell |
-||| Two Dots | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active |
-||| Three Dots | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active |
-||| One Dot | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active |
+| Turtle | Weight | Feed | Bath | Activity |
+|--------|--------|------|------|----------|
+| No Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
+| Two Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
+| Three Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
+| One Dot | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
 
-**Notes:** Fed ~8 pallets total with butterfly pea stems. Bath given around 8 am. Atlas/No Dots showed a strange hair‑like growth on its shell (harmless). Expect it to appear again when the next poop occurs.
+**Notes:** Fed same as yesterday (similar food). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
 
 ### Saturday, July 11
 
