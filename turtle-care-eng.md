@@ -117,115 +117,125 @@
 
 ### Sunday, July 5
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
-| Two Dots | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
-| Three Dots | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
-| One Dot | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
+||| Two Dots | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
+||| Three Dots | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
+||| One Dot | — (weekly) | Y (~2 pellets, halved) | Y | Active — similar to yesterday |
 
 **Notes:** Started cutting pellets in half — eating more this way. ~2 pellets each (more or less). Not much change activity-wise from yesterday. Bath given.
 
 ### Monday, July 6
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
-| Two Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
-| Three Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
-| One Dot | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
+||| Two Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
+||| Three Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
+||| One Dot | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
 
-**Notes:** Less food today — only 0.5–1 pellet each. Also gave them butterfly pea flowers — they loved eating them! Bath given.
+**Notes:** Less food today — only 0.5–1 pellet each. Also gave them butterfly pea (butterfly pea) flowers — they loved eating them! Bath given.
 
 ### Tuesday, July 7
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
-| Two Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
-| Three Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
-| One Dot | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
+||| Two Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
+||| Three Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
+||| One Dot | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
 
-**Notes:** Fed butterfly pea flowers and ivy gourd today — they mostly ate these. Let them bask under UVA lamp a bit longer than usual. Bath given.
+**Notes:** Fed butterfly pea flowers and ivy gourd (ivy gourd) today — they mostly ate these. Let them bask under UVA lamp a bit longer than usual. Bath given.
 
 ### Wednesday, July 8
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
-| Two Dots | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
-| Three Dots | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
-| One Dot | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
+||| Two Dots | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
+||| Three Dots | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
+||| One Dot | — (weekly) | Y (~5 butterfly pea + 8 pellets) | Y | Active |
 
 **Notes:** Fed ~5 finely chopped butterfly pea flowers + 8 pellets total (4 in morning with flowers, 4 around 16:00). Bath given. Active day.
 
 ### Thursday, July 9
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
-| Two Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
-| Three Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
-| One Dot | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+|| Turtle | Weight | Feed | Bath | Activity |
+||--------|--------|------|------|----------|
+|| No Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+|| Two Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+|| Three Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+||| One Dot | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
 
-**Notes:** Fed ivy gourd and butterfly pea in the morning, then 6 pellets around 14:00. Brushed/cleaned them during bath time. Kept inside under UVA till ~18:30. Active day.
+**Notes:** Fed ivy gourd (ivy gourd) and butterfly pea (butterfly pea) in the morning, then 6 pellets around 14:00. Brushed/cleaned them during bath time. Kept inside under UVA till ~18:30. Active day.
 
 **Notes:** Fed same as yesterday (ivy gourd and butterfly pea in morning, 6 pellets around 14:00). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
-
 ### Friday, July 10
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
-| Two Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
-| Three Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
-| One Dot | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active — ate many butterfly pea stems, hair‑like thing visible on shell |
+||| Two Dots | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active |
+||| Three Dots | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active |
+||| One Dot | — (weekly) | Y (~8 pallets + butterfly pea stems) | Y (~8:00) | Active |
 
-**Notes:** Fed same as yesterday (similar food). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
+**Notes:** Fed ~8 pallets total with butterfly pea stems. Bath given around 8 am. No Dots/No Dots showed a strange hair‑like growth on its shell (harmless). Expect it to appear again when the next poop occurs.
 
 ### Saturday, July 11
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | 58 g | Y (7-8 pallets total) | Y | Outside more during the day |
-| Two Dots | 49 g | Y (7-8 pallets total) | Y | Outside more during the day |
-| Three Dots | 49 g | Y (7-8 pallets total) | Y | Outside more during the day |
-| One Dot | 44 g | Y (7-8 pallets total) | Y | Outside more during the day |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | 58 g | Y (7-8 pallets total) | Y | Outside more during the day |
+||| Two Dots | 49 g | Y (7-8 pallets total) | Y | Outside more during the day |
+||| Three Dots | 49 g | Y (7-8 pallets total) | Y | Outside more during the day |
+||| One Dot | 44 g | Y (7-8 pallets total) | Y | Outside more during the day |
 
 **Notes:** Weekly weigh-in — No Dots 58g (+3g), Two Dots 49g (-1g), Three Dots 49g (+3g), One Dot 44g (+1g). Not much change overall. Fed approximately 7-8 pallets total across all four. Given bath. Spending more time outside day-to-day.
 
 ### Sunday, July 12
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
-| Two Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
-| Three Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
-| One Dot | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
+||| Two Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
+||| Three Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
+||| One Dot | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
 
-**Notes:** Fed ~6 pallets total with ivy gourd and butterfly pea. Bath given.
+**Notes:** Fed ~6 pallets total with ivy gourd (ivy gourd) and butterfly pea (butterfly pea). Bath given.
 
 ### Monday, July 13
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
-| Two Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
-| Three Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
-| One Dot | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+|||| Turtle | Weight | Feed | Bath | Activity |
+||||--------|--------|------|------|----------|
+|||| No Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+|||| Two Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+|||| Three Dots | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
+|||| One Dot | — (weekly) | Y (~8 pallets) | Y (delayed ~8am) | |
 
 **Notes:** Fed ~8 pallets total. Bath given quite late at almost 8am.
 
 ### Tuesday, July 14
 
-| Turtle | Weight | Feed | Bath | Activity |
-|--------|--------|------|------|----------|
-| No Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
-| Two Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
-| Three Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
-| One Dot | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+|||| Turtle | Weight | Feed | Bath | Activity |
+||||--------|--------|------|------|----------|
+|||| No Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+|||| Two Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+|||| Three Dots | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
+|||| One Dot | — (weekly) | Y (10-12 pallets + butterfly pea stem) | Y | Ate a lot |
 
 **Notes:** Fed ~10-12 pallets total with butterfly pea stems. Bath given as usual. All ate a lot today.
+
+### Wednesday, July 15
+
+|||| Turtle | Weight | Feed | Bath | Activity |
+||||--------|--------|------|------|----------|
+|||| No Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+|||| Two Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+|||| Three Dots | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+|||| One Dot | — (weekly) | Y (~8 pellets + butterfly pea stems) | Y | Overactive |
+
+**Notes:** Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. No Dots has a hair-like growth protruding from its cloaca; safe, likely will pass with next poop (same as One Dot yesterday). All overactive today.
 
 ---
 ## 📊 Weight Tracker
