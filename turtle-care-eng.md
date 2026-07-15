@@ -10,9 +10,9 @@
 | Name | Start Weight |
 |------|-------------|
 | No Dots | 55 g |
-| Two Dots  | 49 g |
+| Two Dots (..) | 49 g |
 | Three Dots | 48 g |
-| One Dot  | 43 g |
+| One Dot (.) | 43 g |
 
 ---
 
@@ -135,7 +135,7 @@
 ||| Three Dots | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
 ||| One Dot | — (weekly) | Y (~0.5–1 pellet) | Y | Active — similar to yesterday |
 
-**Notes:** Less food today — only 0.5–1 pellet each. Also gave them butterfly pea (butterfly pea) flowers — they loved eating them! Bath given.
+**Notes:** Less food today — only 0.5–1 pellet each. Also gave them butterfly pea flowers — they loved eating them! Bath given.
 
 ### Tuesday, July 7
 
@@ -146,7 +146,7 @@
 ||| Three Dots | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
 ||| One Dot | — (weekly) | Y (butterfly pea + ivy gourd) | Y | Active — UVA lamp longer than normal |
 
-**Notes:** Fed butterfly pea flowers and ivy gourd (ivy gourd) today — they mostly ate these. Let them bask under UVA lamp a bit longer than usual. Bath given.
+**Notes:** Fed butterfly pea flowers and ivy gourd today — they mostly ate these. Let them bask under UVA lamp a bit longer than usual. Bath given.
 
 ### Wednesday, July 8
 
@@ -161,14 +161,14 @@
 
 ### Thursday, July 9
 
-|| Turtle | Weight | Feed | Bath | Activity |
-||--------|--------|------|------|----------|
-|| No Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
-|| Two Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
-|| Three Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+||| Turtle | Weight | Feed | Bath | Activity |
+|||--------|--------|------|------|----------|
+||| No Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+||| Two Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
+||| Three Dots | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
 ||| One Dot | — (weekly) | Y (~6 pellets + ivy gourd + butterfly pea) | Y (brushed/cleaned) | Active — kept inside UVA till ~18:30 |
 
-**Notes:** Fed ivy gourd (ivy gourd) and butterfly pea (butterfly pea) in the morning, then 6 pellets around 14:00. Brushed/cleaned them during bath time. Kept inside under UVA till ~18:30. Active day.
+**Notes:** Fed ivy gourd and butterfly pea in the morning, then 6 pellets around 14:00. Brushed/cleaned them during bath time. Kept inside under UVA till ~18:30. Active day.
 
 **Notes:** Fed same as yesterday (ivy gourd and butterfly pea in morning, 6 pellets around 14:00). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
 
@@ -179,7 +179,7 @@
 ||| No Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
 ||| Two Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
 ||| Three Dots | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
-|| One Dot | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
+||| One Dot | — (weekly) | Y (food like yesterday) | Y | Kept inside from ~14:00 to 18:30 due to low sunlight and rain outdoor |
 
 **Notes:** Fed same as yesterday (similar food). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside.
 
@@ -203,7 +203,7 @@
 ||| Three Dots | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
 ||| One Dot | — (weekly) | Y (ivy gourd butterfly pea ~6 pallets) | Y | |
 
-**Notes:** Fed ~6 pallets total with ivy gourd (ivy gourd) and butterfly pea (butterfly pea). Bath given.
+**Notes:** Fed ~6 pallets total with ivy gourd and butterfly pea. Bath given.
 
 ### Monday, July 13
 
