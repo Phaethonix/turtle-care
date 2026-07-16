@@ -237,6 +237,16 @@
 
 **Notes:** Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. No Dots pooped out the hair-like growth and is fine. All overactive today. Canonical name: No Dots.
 
+### Thursday, July 16
+
+|||| Turtle | Weight | Feed | Bath | Activity |
+||||--------|--------|------|------|----------|
+|||| No Dots | — (weekly) | Y (~10 pallets) | Y | Kept under UVA lamp 14:00-19:00 |
+|||| Two Dots | — (weekly) | Y (~10 pallets) | Y | Kept under UVA lamp 14:00-19:00 |
+|||| Three Dots | — (weekly) | Y (~10 pallets) | Y | Kept under UVA lamp 14:00-19:00 |
+|||| One Dot | — (weekly) | Y (~10 pallets) | Y | Kept under UVA lamp 14:00-19:00 |
+
+**Notes:** Fed ~10 pallets total. Bath given normal. Kept under UVA lamp from 14:00 to 19:00 due to extended nap (usually off at 17:00). No Dots' hair‑like growth is gone (pooped out). All normal activity.
 ---
 ## 📊 Weight Tracker
 

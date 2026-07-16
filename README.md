@@ -22,7 +22,7 @@ A personal daily log for tracking the health, weight, feeding, and activities of
 | One Dot / หนึ่งจุด | 43 g | 44 g |
 
 *Last weigh‑in: 11 July 2026 (No Dots 58 g, Two Dots 49 g, Three Dots 49 g, One Dot 44 g)*
-*Latest feeding (14 July): ~10‑12 pellets + butterfly pea stems, bath given as usual.*
+\*Latest feeding (16 July): ~10 pellets, bath given, kept under UVA lamp 14:00-19:00.*
 
 ---
 
