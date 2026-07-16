@@ -10,7 +10,7 @@
 | No Dots | 55 g |
 | Two Dots | 49 g |
 | Three Dots | 48 g |
-| One Dot  | | 43 g |
+| One Dot | 43 g |
 
 ---
 
@@ -52,12 +52,12 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Tue 7 | ✅ | ✅ | Butterfly pea + ตำลึง (ivy gourd) — mostly ate these | UVA lamp time extended a bit. Active. |
 | Wed 8 | ✅ ~8 pellets total + ~5 chopped butterfly pea flowers | ✅ | Split: 4 pellets AM w/ flowers, 4 pellets ~16:00 | Active. |
 | Thu 9 | ✅ ~6 pellets total + ตำลึง + อัญชัน (AM) | ✅ (brushed/cleaned) | Pellets ~14:00 | Kept inside under UVA until ~18:30 (low sunlight/rain). Active. |
-| Fri 10 | ✅ same as yesterday | ✅ ~8:00 | |Fed same as yesterday (similar food). Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside. |
+| Fri 10 | ✅ same as yesterday | ✅ ~8:00 | |Fed same as yesterday (similar food). | Gave bath. Kept them inside from ~14:00 to 18:30 due to low sunlight and rain outside. |
 | **Sat 11 — Weigh-in** | ✅ ~7–8 pellets total | ✅ | | **No Dots 58g (+3g), Two Dots 49g (−1g), Three Dots 49g (+3g), One Dot 44g (+1g)** — little overall change. Spending more time outside. |
 | Sun 12 | ✅ ~6 pellets total | ✅ | + ตำลึง + อัญชัน | |
 | Mon 13 | ✅ ~8 pellets total | ✅ (delayed, ~8:00) | | |
 | Tue 14 | ✅ ~10–12 pellets total + butterfly pea stem | ✅ | | Ate a lot today. |
-| Wed 15 | ✅ ~8 pellets + butterfly pea stems | ✅ | Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. No Dots has a hair-like growth protruding from its cloaca; safe, likely will pass with next poop (same as One Dot yesterday). All overactive today. |
+| Wed 15 | ✅ ~8 pellets + butterfly pea stems | ✅ | Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. | No Dots has a hair-like growth protruding from its cloaca; safe, likely will pass with next poop (same as One Dot yesterday). All overactive today. |
 | Thu 16 | ✅ ~10 pellets total | ✅ | | Kept under UVA lamp 14:00–19:00 (extended nap, usually off 17:00). No Dots's shell growth fully gone. All normal. |
 
 ---
