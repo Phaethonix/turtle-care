@@ -59,6 +59,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Tue 14 | ✅ ~10–12 pellets total + butterfly pea stem | ✅ | | Ate a lot today. |
 | Wed 15 | ✅ ~8 pellets + butterfly pea stems | ✅ | Fed ~8 pellets plus butterfly pea stems — they ate the stems more than the petals. | No Dots has a hair-like growth protruding from its cloaca; safe, likely will pass with next poop (same as One Dot yesterday). All overactive today. |
 | Thu 16 | ✅ ~10 pellets total | ✅ | | Kept under UVA lamp 14:00–19:00 (extended nap, usually off 17:00). No Dots's shell growth fully gone. All normal. |
+| **Fri 17** | ✅ ~10 pallets + chopped butterfly pea stems | ✅ (UVA lamp during bath) | | Bath with UVA lamp — test to see effect; result inconclusive. |
 
 ---
 
