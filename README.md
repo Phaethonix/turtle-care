@@ -14,7 +14,7 @@ A personal daily log for tracking the health, weight, feeding, and activities of
 
 ### 🐢 The Turtles / รายชื่อเต่า
 
-| Name / ชื่อ | Start Weight / น้ำหนักเริ่มต้น | Current Weight (14 Jul 2026) / น้ำหนักปัจจุบัน |
+| Name / ชื่อ | Start Weight / น้ำหนักเริ่มต้น | Current Weight (19 Jul 2026) / น้ำหนักปัจจุบัน |
 |-------------|-----------------------------|-----------------------------------------------|
 | No Dots / ไม่มีจุด | 55 g | 58 g |
 | Two Dots / สองจุด | 49 g | 49 g |
@@ -22,7 +22,7 @@ A personal daily log for tracking the health, weight, feeding, and activities of
 | One Dot / หนึ่งจุด | 43 g | 44 g |
 
 *Last weigh‑in: 11 July 2026 (No Dots 58 g, Two Dots 49 g, Three Dots 49 g, One Dot 44 g)*
-\*Latest feeding (16 July): ~10 pellets, bath given, kept under UVA lamp 14:00-19:00.*
+\*Latest feeding (18 July): ~12 pellets, bath given, kept under UVA lamp 14:00-19:00.*
 
 ---
 
