@@ -61,6 +61,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Thu 16 | ✅ ~10 pellets total | ✅ | | Kept under UVA lamp 14:00–19:00 (extended nap, usually off 17:00). No Dots's shell growth fully gone. All normal. |
 | **Fri 17** | ✅ ~10 pallets + chopped butterfly pea stems | ✅ (UVA lamp during bath) | | Bath with UVA lamp — test to see effect; result inconclusive. |
 | **Sat 18** | ✅ ~12 pallets | ✅ | | Normal activity. No Dots still has hair-like growth protruding from cloaca — hasn't passed yet. Weigh-in: One Dot 43g, Three Dots 51g, No Dots 60g, Two Dots 51g. |
+| **Sun 19 — Weigh-in** | ✅ ~12 pallets | ✅ | | Kept under UVA lamp until 19:00; hid under shade. No Dots's cloaca growth gone — passed with big poop. |
 
 ---
 
