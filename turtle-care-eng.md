@@ -63,6 +63,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | **Sat 18** | ✅ ~12 pallets | ✅ | | Normal activity. No Dots still has hair-like growth protruding from cloaca — hasn't passed yet. Weigh-in: One Dot 43g, Three Dots 51g, No Dots 60g, Two Dots 51g. |
 | **Sun 19 — Weigh-in** | ✅ ~12 pallets | ✅ | | Kept under UVA lamp until 19:00; hid under shade. No Dots's cloaca growth gone — passed with big poop. |
 | Mon 20 | ✅ ~14 pallets total | ✅ | | Not much activity overall. One turtle (either One Dot or Two Dots — unsure which) had hair-like growth from cloaca during poop/bath — passed and gone after. Unsure what it was. |
+| Tue 21 | ✅ ~12 pallets total | ✅ | | Went outside for a bit. Light rain, didn't directly hit the turtle pen. |
 
 ---
 
