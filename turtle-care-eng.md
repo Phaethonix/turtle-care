@@ -16,12 +16,12 @@
 
 ## 📊 Weekly Weigh-Ins
 
-| Turtle | Jun 26 | Jul 4 | Jul 11 | Change (26→11) |
-|--------|--------|-------|--------|-----------------|
-| No Dots | 55 g | 55 g | 58 g | +3 g |
-| Two Dots | 49 g | 50 g | 49 g | 0 g |
-| Three Dots | 48 g | 46 g | 49 g | +1 g |
-| One Dot | 43 g | 43 g | 44 g | +1 g |
+| Turtle | Jun 26 | Jul 4 | Jul 11 | Jul 18 | Change (26→18) |
+|--------|--------|-------|--------|--------|----------------|
+| No Dots | 55 g | 55 g | 58 g | 60 g | +5 g |
+| Two Dots | 49 g | 50 g | 49 g | 51 g | +2 g |
+| Three Dots | 48 g | 46 g | 49 g | 51 g | +3 g |
+| One Dot | 43 g | 43 g | 44 g | 43 g | 0 g |
 
 All four are fed and bathed daily as a group unless noted — the tables below only call out where one turtle differed.
 
