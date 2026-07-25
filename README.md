@@ -1,4 +1,4 @@
-# 🐢 Turtle Care Journal | ไดอารี่ดูแลเต่า
+# 🐢 Turtle Care Journal | ไออารี่ดูแลเต่า
 
 A personal daily log for tracking the health, weight, feeding, and activities of four pet turtles. Kept here as a digital keepsake.
 
@@ -14,15 +14,15 @@ A personal daily log for tracking the health, weight, feeding, and activities of
 
 ### 🐢 The Turtles / รายชื่อเต่า
 
-| Name / ชื่อ | Start Weight / น้ำหนักเริ่มต้น | Current Weight (19 Jul 2026) / น้ำหนักปัจจุบัน |
-|-------------|-----------------------------|-----------------------------------------------|
-| No Dots / ไม่มีจุด | 55 g | 58 g |
-| Two Dots / สองจุด | 49 g | 49 g |
-| Three Dots / สามจุด | 48 g | 49 g |
-| One Dot / หนึ่งจุด | 43 g | 44 g |
+|| Name / ชื่อ | Start Weight / น้ำหนักเริ่มต้น | Current Weight (24 Jul 2026) / น้ำหนักปัจจุบัน |
+||-------------|-----------------------------|-----------------------------------------------|
+|| No Dots / ไม่มีจุด | 55 g | 70 g |
+|| Two Dots / สองจุด | 49 g | 52 g |
+|| Three Dots / สามจุด | 48 g | 52 g |
+|| One Dot / หนึ่งจุด | 43 g | 47 g |
 
-*Last weigh‑in: 11 July 2026 (No Dots 58 g, Two Dots 49 g, Three Dots 49 g, One Dot 44 g)*
-\*Latest feeding (18 July): ~12 pellets, bath given, kept under UVA lamp 14:00-19:00.*
+*Last weigh‑in: 24 July 2026 (No Dots 70 g, Two Dots 52 g, Three Dots 52 g, One Dot 47 g)*
+*Latest feeding (24 July): <10 pellets total + supplemental food from mother*
 
 ---
 
