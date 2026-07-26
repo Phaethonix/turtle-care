@@ -67,6 +67,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Wed 22 | ✅ ~13 pellets total | ✅ | | Bath late ~8:00 (something happened); no poop or pee while bathing; changed sleeping place for tonight. Feeding peak observed 08:00–12:00. |
 | Thu 23 | ✅ ~13 pellets total | ✅ | | Two Dots peed on keeper again (3rd time) |
 | Fri 24 | ✅ <10 pellets total + extra food (from mother) | ✅ | | One Dot 47g, Two Dots 52g, Three Dots 52g, No Dots 70g |
+| Sat 25 | ✅ ~10 pellets total | ✅ | | Nothing out of the ordinary |
 
 ---
 
