@@ -69,6 +69,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Fri 24 | ✅ <10 pellets total + extra food (from mother) | ✅ | | One Dot 47g, Two Dots 52g, Three Dots 52g, No Dots 70g |
 | Sat 25 | ✅ ~10 pallets | ✅ | | Nothing out of the ordinary |
 | Sun 26 | ✅ ~10 pellets + ตำลึง leaves | ✅ | | Nothing out of the ordinary |
+| Mon 27 | ✅ ~10-12 pallets | ✅ | | Normal activities |
 
 ---
 
