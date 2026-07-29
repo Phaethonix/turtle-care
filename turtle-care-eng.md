@@ -65,11 +65,13 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Mon 20 | ✅ ~14 pellets total | ✅ | | Not much activity overall. One turtle (either One Dot or Two Dots — unsure which) had hair-like growth from cloaca during poop/bath — passed and gone after. Unsure what it was. |
 | Tue 21 | ✅ ~12 pellets total | ✅ | | Went outside for a bit. Light rain, didn't directly hit the turtle pen. |
 | Wed 22 | ✅ ~13 pellets total | ✅ | | Bath late ~8:00 (something happened); no poop or pee while bathing; changed sleeping place for tonight. Feeding peak observed 08:00–12:00. |
-| Thu 23 | ✅ ~13 pellets total | ✅ | | Two Dots peed on keeper again (3rd time) |
-| Fri 24 | ✅ <10 pellets total + extra food (from mother) | ✅ | | One Dot 47g, Two Dots 52g, Three Dots 52g, No Dots 70g |
-| Sat 25 | ✅ ~10 pallets | ✅ | | Nothing out of the ordinary |
-| Sun 26 | ✅ ~10 pellets + ตำลึง leaves | ✅ | | Nothing out of the ordinary |
-| Mon 27 | ✅ ~10-12 pallets | ✅ | | Normal activities |
+| Thu 23 | ✅ ~13 pallets total | ✅ | | Nothing to write home about; golden time for eating is 08:00–12:00. |
+| Fri 24 | ✅ ~13 pallets total | ✅ | | Two Dots peed on keeper again (3rd time) |
+| Sat 25 | ✅ <10 pellets total + extra food (from mother) | ✅ | | One Dot 47g, Two Dots 52g, Three Dots 52g, No Dots 70g |
+| Sun 26 | ✅ ~10 pallets | ✅ | | Nothing out of the ordinary |
+| Mon 27 | ✅ ~10 pellets + ตำลึง leaves | ✅ | | Nothing out of the ordinary |
+| Tue 28 | ✅ ~10-12 pallets | ✅ | | Normal activities |
+| Wed 29 | ✅ ~10 pallets with some butterfly pea (อัญชัน) | ✅ | | |
 
 ---
 
