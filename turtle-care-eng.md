@@ -73,6 +73,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Tue 28 | ✅ ~10-12 pallets | ✅ | | Normal activities |
 | Wed 29 | ✅ ~10 pallets with some butterfly pea (อัญชัน) | ✅ | | |
 | Thu 30 | ✅ ~14 pallets total | ✅ | | One Dot peed on keeper this time |
+| Fri 31 | ✅ ~14 pallets total | ✅ | | Watched them eat while out for the Turnitin seminar — accurate count |
 
 ---
 
