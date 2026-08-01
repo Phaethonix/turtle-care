@@ -77,6 +77,14 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 
 ---
 
+## 📅 August 2026
+
+| Date | Fed | Bath | Food / Amount | Notes |
+|------|-----|------|----------------|-------|
+| Sat 1 | ✅ ~16 pallets + lots of butterfly pea (อัญชัน) stems | ✅ | | Ate a lot — skipped weigh-in tonight, hoping weights are up. |
+
+---
+
 ## 🗒️ Recurring things worth remembering
 
 - They **won't eat from a shared bowl** — need to be fed individually, food placed near each one.
