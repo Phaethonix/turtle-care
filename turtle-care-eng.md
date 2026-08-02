@@ -7,21 +7,21 @@
 
 | Name | Current Weight |
 |------|--------------|
-| Atlas | 70 g |
-| Two Dots | 52 g |
-| Trinity | 52 g |
-| One Dot | 47 g |
+| Atlas | 71 g |
+| Two Dots | 57 g |
+| Trinity | 58 g |
+| One Dot | 48 g |
 
 ---
 
 ## 📊 Weekly Weigh-Ins
 
-| Turtle | Jun 26 | Jul 4 | Jul 11 | Jul 18 | Jul 24 | Change (26→24) |
-|--------|--------|-------|--------|--------|--------|----------------|
-| No Dots | 55 g | 55 g | 58 g | 60 g | 70 g | +15 g |
-| Two Dots | 49 g | 50 g | 49 g | 51 g | 52 g | +3 g |
-| Three Dots | 48 g | 46 g | 49 g | 51 g | 52 g | +4 g |
-| One Dot | 43 g | 43 g | 44 g | 43 g | 47 g | +4 g |
+| | Turtle | Jun 26 | Jul 4 | Jul 11 | Jul 18 | Jul 24 | Aug 2 | Change (26→Aug 2) |
+|---|--------|--------|-------|--------|--------|--------|-------|-------------------|
+| | No Dots | 55 g | 55 g | 58 g | 60 g | 70 g | 71 g | +16 g |
+| | Two Dots | 49 g | 50 g | 49 g | 51 g | 52 g | 57 g | +8 g |
+| | Three Dots | 48 g | 46 g | 49 g | 51 g | 52 g | 58 g | +10 g |
+| | One Dot | 43 g | 43 g | 44 g | 43 g | 47 g | 48 g | +5 g |
 
 All four are fed and bathed daily as a group unless noted — the tables below only call out where one turtle differed.
 
@@ -82,6 +82,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Date | Fed | Bath | Food / Amount | Notes |
 |------|-----|------|----------------|-------|
 | Sat 1 | ✅ ~16 pallets + lots of butterfly pea (อัญชัน) stems | ✅ | | Ate a lot — skipped weigh-in tonight, hoping weights are up. |
+| Sun 2 | ✅ ~16 pallets total | ✅ | | Weigh-in: One Dot 48g, Two Dots 57g, Three Dots 58g, No Dots 71g |
 
 ---
 
