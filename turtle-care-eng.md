@@ -83,6 +83,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 |------|-----|------|----------------|-------|
 | Sat 1 | ✅ ~16 pallets + lots of butterfly pea (อัญชัน) stems | ✅ | | Ate a lot — skipped weigh-in tonight, hoping weights are up. |
 | Sun 2 | ✅ ~16 pallets total | ✅ | | Weigh-in: One Dot 48g, Two Dots 57g, Three Dots 58g, No Dots 71g |
+| Mon 3 | ✅ ~20 pallets total | ✅ | | Poop a lot in pen – easy to see they're comfortable, but messy to clean |
 
 ---
 
