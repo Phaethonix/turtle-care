@@ -73,7 +73,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Tue 28 | ✅ ~10-12 pallets | ✅ | | Normal activities |
 | Wed 29 | ✅ ~10 pallets with some butterfly pea (อัญชัน) | ✅ | | |
 | Thu 30 | ✅ ~14 pallets total | ✅ | | One Dot peed on keeper this time |
-| Fri 31 | ✅ ~14 pallets total | ✅ | | Watched them eat while out for the Turnitin seminar — accurate count |
+| Fri 31 | ✅ ~14 pallets total | ✅ | | Watched them eat while out for the Turnitin seminar — accurate count. Sidenote: their food (a bucket of pellets) was stolen that day; a spare bucket of a different pellet type was on hand, but they refuse to eat that kind at all |
 
 ---
 
@@ -85,6 +85,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Sun 2 | ✅ ~16 pallets total | ✅ | | Weigh-in: One Dot 48g, Two Dots 57g, Three Dots 58g, No Dots 71g |
 | Mon 3 | ✅ ~20 pallets total | ✅ | | Poop a lot in pen – easy to see they're comfortable, but messy to clean |
 | Tue 4 | ✅ ~16 pallets total | ✅ | | Uneventful activities. One of them (either One Dot or Two Dots) left urine and a notable amount of stool in their sleeping quarters — typical volume for a healthy tortoise, though the cleanup was, shall we say, generous. |
+| Wed 5 | ✅ ~18-20 pallets total | ✅ (late, ~8:00) | | Overslept a bit; nothing of note in terms of activity |
 
 ---
 
