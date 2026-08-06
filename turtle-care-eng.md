@@ -86,6 +86,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Mon 3 | ✅ ~20 pallets total | ✅ | | Poop a lot in pen – easy to see they're comfortable, but messy to clean |
 | Tue 4 | ✅ ~16 pallets total | ✅ | | Uneventful activities. One of them (either One Dot or Two Dots) left urine and a notable amount of stool in their sleeping quarters — typical volume for a healthy tortoise, though the cleanup was, shall we say, generous. |
 | Wed 5 | ✅ ~18-20 pallets total | ✅ (late, ~8:00) | | Overslept a bit; nothing of note in terms of activity |
+| Thu 6 | ✅ ~14-16 pallets total | ✅ | | Quite cold and dark this morning; heat lamp needed or they won't eat much. Three Dots barely ate today. Ordered another heat lamp. |
 
 ---
 
@@ -93,5 +94,6 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 
 - They **won't eat from a shared bowl** — need to be fed individually, food placed near each one.
 - **Butterfly pea flowers (อัญชัน)** and **ivy gourd (ตำลึง)** were introduced Jul 6 and are a hit, especially the stems.
+- Spare pellet brand (different from usual) is refused — they won't eat it at all.
 - Feeding amount seems to track appetite from the *previous* day's feed — light eating often follows a big feed the day before.
 - Bath time is nominally ~7:00; delays have happened a few times due to oversleeping.
