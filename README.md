@@ -20,6 +20,7 @@ A personal daily log for tracking the health, weight, feeding, and activities of
 | Two Dots / สองจุด | 49 g | 56 g |
 | Three Dots / สามจุด | 48 g | 64 g |
 | One Dot / หนึ่งจุด | 43 g | 54 g |
+
 *Last weigh‑in: 8 August 2026 (No Dots 80 g, Two Dots 56 g, Three Dots 64 g, One Dot 54 g)*
 *Latest feeding (8 August): ~19 pellets total*
 
