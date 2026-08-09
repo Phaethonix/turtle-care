@@ -1,4 +1,4 @@
-# 🐢 Turtle Care Journa# 🐢 Turtle Care Journal
+# 🐢 Turtle Care Journal
 
 **Keeper:** [Your Name]
 **Start Date:** June 26, 2026
@@ -7,21 +7,21 @@
 
 | Name | Current Weight |
 |------|--------------|
-| Atlas | 71 g |
-| Two Dots | 57 g |
-| Trinity | 58 g |
-| One Dot | 48 g |
+| No Dots | 80 g |
+| Two Dots | 56 g |
+| Three Dots | 64 g |
+| One Dot | 54 g |
 
 ---
 
 ## 📊 Weekly Weigh-Ins
 
-| | Turtle | Jun 26 | Jul 4 | Jul 11 | Jul 18 | Jul 24 | Aug 2 | Change (26→Aug 2) |
-|---|--------|--------|-------|--------|--------|--------|-------|-------------------|
-| | No Dots | 55 g | 55 g | 58 g | 60 g | 70 g | 71 g | +16 g |
-| | Two Dots | 49 g | 50 g | 49 g | 51 g | 52 g | 57 g | +8 g |
-| | Three Dots | 48 g | 46 g | 49 g | 51 g | 52 g | 58 g | +10 g |
-| | One Dot | 43 g | 43 g | 44 g | 43 g | 47 g | 48 g | +5 g |
+| | Turtle | Jun 26 | Jul 4 | Jul 11 | Jul 18 | Jul 24 | Aug 2 | Aug 9 | Change (26→Aug 9) |
+|---|--------|--------|--------|--------|--------|--------|--------|--------|-------------------|
+| | No Dots | 55 g | 55 g | 58 g | 60 g | 70 g | 71 g | 80 g | +25 g |
+| | Two Dots | 49 g | 50 g | 49 g | 51 g | 52 g | 57 g | 56 g | +7 g |
+| | Three Dots | 48 g | 46 g | 49 g | 51 g | 52 g | 58 g | 64 g | +16 g |
+| | One Dot | 43 g | 43 g | 44 g | 43 g | 47 g | 48 g | 54 g | +11 g |
 
 All four are fed and bathed daily as a group unless noted — the tables below only call out where one turtle differed.
 
