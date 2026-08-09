@@ -3,19 +3,19 @@
 **Keeper:** [Your Name]
 **Start Date:** June 26, 2026
 
-## 🔵 The Turtles
+##  🔵 The Turtles
 
 | Name | Current Weight |
 |------|----------------|
-| Atlas | 71 g |
+| No Dots | 71 g |
 | Two Dots | 57 g |
-| Trinity | 58 g |
+| Three Dots | 58 g |
 | One Dot | 48 g |
 
 ## 📊 Weekly Weigh‑Ins
 
 | Turtle | Jun 26 | Jul 4 | Jul 11 | Jul 18 | Jul 24 | Aug 2 | Aug 6 | Aug 8 | Change (26→Aug 8) |
-|-------|--------|------|--------|--------|--------|-------|-------|-------|-------------------|
+|--------|--------|------|--------|--------|--------|-------|-------|-------|-------------------|
 | No Dots | 55 g | 55 g | 58 g | 60 g | 70 g | 71 g | 71 g | 80 g | +25 g |
 | Two Dots | 49 g | 50 g | 49 g | 51 g | 52 g | 57 g | 57 g | 56 g | +7 g |
 | Three Dots | 48 g | 46 g | 49 g | 51 g | 52 g | 58 g | 58 g | 64 g | +16 g |
@@ -75,18 +75,18 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 
 ---
 
-## 📅 August 2026
+##  📅 August 2026
 
 | Date | Fed | Bath | Food / Amount | Notes |
 |------|-----|------|----------------|-------|
-| Sat 1 | ✅ ~16 pallets + lots of butterfly pea (อัญชัน) stems | ✅ | | Ate a lot — skipped weigh‑in tonight, hoping weights are up. |
-| Sun 2 | ✅ ~16 pallets total | ✅ | | Weigh‑in: One Dot 48 g, Two Dots 57 g, Three Dots 58 g, No Dots 71 g |
-| Mon 3 | ✅ ~20 pallets total | ✅ | | Poop a lot in pen – easy to see they're comfortable, but messy to clean |
-| Tue 4 | ✅ ~16 pallets total | ✅ | | Uneventful activities. One of them (either One Dot or Two Dots) left urine and a notable amount of stool in their sleeping quarters — typical volume for a healthy tortoise, though the cleanup was, shall we say, generous. |
-| Wed 5 | ✅ ~18‑20 pallets total | ✅ (late, ~8:00) | | Overslept a bit; nothing of note in terms of activity |
-| Thu 6 | ✅ ~19 pallets total | ✅ | | Since 7 am – late 11 am, dark outside; heat lamp (heat only, no UV). Weights: Atlas 80 g, Trinity 64 g, Two Dots 56 g, One Dot 54 g. Three Dots barely ate today. |
-| Fri 7 | ✅ ~18 pallets total | ✅ | | Heat lamp (heat only, no UV) since 7 am – late 11 am, dark outside; same activities. |
-| Sat 8 | ✅ ~19 pallets total | ✅ | | Weights: Atlas 80 g, Trinity 64 g, Two Dots 56 g, One Dot 54 g. |
+| Sat 1 |  ✅ ~16 pallets + lots of butterfly pea (อัญชัน) stems |  ✅ | | Ate a lot — skipped weigh‑in tonight, hoping weights are up. |
+| Sun 2 |  ✅ ~16 pallets total |  ✅ | | Weigh‑in: One Dot 48 g, Two Dots 57 g, Three Dots 58 g, No Dots 71 g |
+| Mon 3 |  ✅ ~20 pallets total |  ✅ | | Poop a lot in pen – easy to see they're comfortable, but messy to clean |
+| Tue 4 |  ✅ ~16 pallets total |  ✅ | | Uneventful activities. One of them (either One Dot or Two Dots) left urine and a notable amount of stool in their sleeping quarters — typical volume for a healthy tortoise, though the cleanup was, shall we say, generous. |
+| Wed 5 |  ✅ ~18‑20 pallets total |  ✅ (late, ~8:00) | | Overslept a bit; nothing of note in terms of activity |
+| Thu 6 |  ✅ ~19 pallets total |  ✅ | | Since 7 am – late 11 am, dark outside; heat lamp (heat only, no UV). Weights: No Dots 80 g, Three Dots 64 g, Two Dots 56 g, One Dot 54 g. Three Dots barely ate today. |
+| Fri 7 |  ✅ ~18 pallets total |  ✅ | | Heat lamp (heat only, no UV) since 7 am – late 11 am, dark outside; same activities. |
+| Sat 8 |  ✅ ~19 pallets total |  ✅ | | Weights: No Dots 80 g, Three Dots 64 g, Two Dots 56 g, One Dot 54 g. |
 
 ---
 

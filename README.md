@@ -12,7 +12,7 @@ A personal daily log for tracking the health, weight, feeding, and activities of
 
 ---
 
-### 🐢 The Turtles / รายชื่อเต่า
+## 🔵 The Turtles
 
 | Name / ชื่อ | Start Weight / น้ำหนักเริ่มต้น | Current Weight (8 Aug 2026) / น้ำหนักปัจจุบัน |
 |-------------|-----------------------------|-----------------------------------------------|
