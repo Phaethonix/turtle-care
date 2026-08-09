@@ -86,6 +86,10 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Mon 3 | ✅ ~20 pallets total | ✅ | | Poop a lot in pen – easy to see they're comfortable, but messy to clean |
 | Tue 4 | ✅ ~16 pallets total | ✅ | | Uneventful activities. One of them (either One Dot or Two Dots) left urine and a notable amount of stool in their sleeping quarters — typical volume for a healthy tortoise, though the cleanup was, shall we say, generous. |
 | Wed 5 | ✅ ~18-20 pallets total | ✅ (late, ~8:00) | | Overslept a bit; nothing of note in terms of activity |
+| Thu 6 | ✅ ~14-16 pallets total | ✅ | | Quite cold and dark; need heat lamp; Three Dots barely ate; ordered another heat lamp. |
+| Fri 7 | ✅ ~18 pallets total | ✅ | | Added heat lamp to nesting pen; might repeat overnight (midnight to ~7-8am). |
+| Sat 8 | ✅ ~18 pallets total | ✅ | | Heat lamp (heat only) 7am-11am; dark outside; same activities. |
+| Sun 9 | ✅ ~19 pallets total | ✅ | | Weights: No Dots 80g, Three Dots 64g, Two Dots 56g, One Dot 54g. |
 
 ---
 
