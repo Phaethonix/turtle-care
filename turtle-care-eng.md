@@ -90,6 +90,7 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Fri 7 | ✅ ~18 pallets total | ✅ | | Added heat lamp to nesting pen; might repeat overnight (midnight to ~7-8am). |
 | Sat 8 | ✅ ~18 pallets total | ✅ | | Heat lamp (heat only) 7am-11am; dark outside; same activities. |
 | Sun 9 | ✅ ~19 pallets total | ✅ | | Weights: No Dots 80g, Three Dots 64g, Two Dots 56g, One Dot 54g. |
+| Mon 10 | ✅ ~17 pallets total | ✅ | | Normal behaviour |
 
 ---
 
