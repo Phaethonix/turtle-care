@@ -93,10 +93,11 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Mon 10 | ✅ ~17 pallets total | ✅ | | Normal behaviour |
 | Tue 11 | ✅ | ✅ | | No notable events or changes in routine. |
 | Wed 12 | ✅ ~17-18 pallets | ✅ | | gave them some dry grass seems it's no up to their taste, poop and pee while bath a lot which is good (easy to clean) |
-| Thu 13 | ✅ ~17-18 pallets | ✅ | | Food and bath administered; 17–18 pellets provided; no significant activity observed. |
-
----
-
+|| Thu 13 | ✅ ~17-18 pallets | ✅ | | Food and bath administered; 17–18 pellets provided; no significant activity observed. |
+|| Sat 14 | ✅ ~16-17 pallets | ✅ | | as for today 14 aug 16-17 pallets cant be sure mixed with grass so it hard to see and they poop in a pile of grass from sme reason so have to clean it a bit often which is why i lost count (y to food and bath) |
+|
+|---
+|
 ## 🗒️ Recurring things worth remembering
 
 - They **won't eat from a shared bowl** — need to be fed individually, food placed near each one.
