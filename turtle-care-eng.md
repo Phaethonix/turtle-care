@@ -91,13 +91,11 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Sat 8 | ✅ ~18 pallets total | ✅ | | Heat lamp (heat only) 7am-11am; dark outside; same activities. |
 | Sun 9 | ✅ ~19 pallets total | ✅ | | Weights: No Dots 80g, Three Dots 64g, Two Dots 56g, One Dot 54g. |
 | Mon 10 | ✅ ~17 pallets total | ✅ | | Normal behaviour |
-|| Tue 11 | ✅ | ✅ | | No notable events or changes in routine. |
-|| Wed 12 | ✅ ~17-18 pallets | ✅ | | gave them some dry grass seems it's no up to their taste, poop and pee while bath a lot which is good (easy to clean) |
+| Tue 11 | ✅ | ✅ | | No notable events or changes in routine. |
+| Wed 12 | ✅ ~17-18 pallets | ✅ | | gave them some dry grass seems it's no up to their taste, poop and pee while bath a lot which is good (easy to clean) |
 | Thu 13 | ✅ ~17-18 pallets | ✅ | | Food and bath administered; 17–18 pellets provided; no significant activity observed. |
-|| Sat 14 | ✅ ~16-17 pallets | ✅ | | Food and bath administered; approximately 16–17 pellets provided, possibly mixed with grass, making accurate counting difficult; feces observed in a grass pile, necessitating additional cleaning. |
-|
-|---
-|
+| Sat 14 | ✅ ~16-17 pallets | ✅ | | Food and bath administered; approximately 16–17 pellets provided, possibly mixed with grass, making accurate counting difficult; feces observed in a grass pile, necessitating additional cleaning. |
+
 ## 🗒️ Recurring things worth remembering
 
 - They **won't eat from a shared bowl** — need to be fed individually, food placed near each one.
