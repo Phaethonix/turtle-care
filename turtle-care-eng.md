@@ -94,8 +94,9 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Tue 11 | ✅ | ✅ | | No notable events or changes in routine. |
 | Wed 12 | ✅ ~17-18 pallets | ✅ | | gave them some dry grass seems it's no up to their taste, poop and pee while bath a lot which is good (easy to clean) |
 | Thu 13 | ✅ ~17-18 pallets | ✅ | | Food and bath administered; 17–18 pellets provided; no significant activity observed. |
-| Sat 15 | ✅ ~17 pallets | ✅ | | Food and bath administered; ~17 pellets provided, mixed with grass making counting difficult; keeper napped 10:00–13:00, missing most of the morning activities. Weights: No Dots 85g, Two Dots 59g, Three Dots 67g, One Dot 56g. |
-
+|| Sat 15 | ✅ ~17 pallets | ✅ | | Food and bath administered; ~17 pellets provided, mixed with grass making counting difficult; keeper napped 10:00–13:00, missing most of the morning activities. Weights: No Dots 85g, Two Dots 59g, Three Dots 67g, One Dot 56g. |
+| Sun 16 | ✅ ~20 pallets | ✅ | | Food and bath administered; ~20 pellets provided; normal activities observed. |
+|
 ## 🗒️ Recurring things worth remembering
 
 - They **won't eat from a shared bowl** — need to be fed individually, food placed near each one.
