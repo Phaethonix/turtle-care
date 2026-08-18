@@ -93,11 +93,11 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 | Mon 10 | ✅ ~17 pallets total | ✅ | | Normal behaviour |
 | Tue 11 | ✅ | ✅ | | No notable events or changes in routine. |
 | Wed 12 | ✅ ~17-18 pallets | ✅ | | gave them some dry grass seems it's no up to their taste, poop and pee while bath a lot which is good (easy to clean) |
-| Thu 13 | ✅ ~17-18 pallets | ✅ | | Food and bath administered; 17–18 pellets provided; no significant activity observed. |
+|| Thu 13 | ✅ ~17-18 pallets | ✅ | | Food and bath administered; 17–18 pellets provided; no significant activity observed. |
 || Sat 15 | ✅ ~17 pallets | ✅ | | Food and bath administered; ~17 pellets provided, mixed with grass making counting difficult; keeper napped 10:00–13:00, missing most of the morning activities. Weights: No Dots 85g, Two Dots 59g, Three Dots 67g, One Dot 56g. |
-| Sun 16 | ✅ ~20 pallets | ✅ | | Food and bath administered; ~20 pellets provided; normal activities observed. |
-|
-| Mon 17 | ✅ ~16 pallets | ✅ | | Food and bath administered; ~16 pellets provided; normal behaviour observed. |
+|| Sun 16 | ✅ ~20 pallets | ✅ | | Food and bath administered; ~20 pellets provided; normal activities observed. |
+|| Mon 17 | ✅ ~16 pallets | ✅ | | Food and bath administered; ~16 pellets provided; normal behaviour observed. |
+|| Tue 18 | ✅ ~16-18 pallets | ✅ | | Food and bath administered; ~16-18 pellets provided; nothing new. |
 
 ## 🗒️ Recurring things worth remembering
 
