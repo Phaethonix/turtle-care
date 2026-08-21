@@ -98,6 +98,8 @@ All four are fed and bathed daily as a group unless noted — the tables below o
 || Sun 16 | ✅ ~20 pallets | ✅ | | Food and bath administered; ~20 pellets provided; normal activities observed. |
 || Mon 17 | ✅ ~16 pallets | ✅ | | Food and bath administered; ~16 pellets provided; normal behaviour observed. |
 || Tue 18 | ✅ ~16-18 pallets | ✅ | | Food and bath administered; ~16-18 pellets provided; nothing new. |
+|| Thu 20 | ✅ ~16 pallets | ✅ | | Food and bath administered; ~16 pellets provided; it is dark and cold outside so little to no movement since 8am-late 10am. |
+|| Fri 21 | ✅ ~3 pallets | ✅ | | Food and bath administered; ~3 pellets provided; kept inside due to dark and cold conditions from late 10:00 till 17:00; will increase food tomorrow. |
 
 ## 🗒️ Recurring things worth remembering
 
